@@ -10,7 +10,10 @@ Computational Biology: Developing pipelines for genome assembly and annotation.<
 Microbial Ecology: Understanding microbial interactions and their ecological roles.<br>
 
 🛠️ Technical Skills<br>
-Programming: Python, R, shell scripting.<br>
+Programming:<br>
+![Python](https://github.com/user-attachments/assets/02c3398d-6c12-44df-8e8b-151a4f695321) 
+![R](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw09401hVq0Y7-yaz1sECAA5&ust=1744872680948000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjb4rT724wDFQAAAAAdAAAAABAE)
+![shellscripting](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F27010&psig=AOvVaw0mfy5-mLB7Vgh-XSlGLxPw&ust=1744872741941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDZmNP724wDFQAAAAAdAAAAABAE)<br>
 Bioinformatics Tools: MetaWRAP, SPAdes, MEGAHIT, DRAM, antiSMASH, Cytoscape .etc.<br>
 Data Analysis: RNA-Seq, differential expression analysis, pathway reconstruction.<br>
 Version Control: Git, GitHub.<br>
