@@ -1,8 +1,13 @@
-# 💫 About Me:
-# 👋 Hi there, I'm ✨Muhammad Ajagbe ✨<br>Bioinformatician | Computational Biologist | Metagenomic Data Analyst<br><br>My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, functional genomics, and the discovery of novel bioactive compounds.<br><br>🔬 Research Interests<br>Metagenomics: Exploring microbial diversity and function in extreme environments.<br><br>Functional Genomics: Annotating and characterizing genes involved in antibiotic production.<br><br>Computational Biology: Developing pipelines for genome assembly and annotation.<br><br>Microbial Ecology: Understanding microbial interactions and their ecological roles.<br>
+## 📫 About me<br>
+👋 Hi there, I'm ✨ Muhammad Ajagbe ✨<br>
+Bioinformatician | Computational Biologist | Metagenomic Data Analyst<br>
 
+My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, functional genomics, and the discovery of novel bioactive compounds.<br>
 
-## 🌐 Socials:
+🔬 Research Interests:<br>
+Host- and Enviroment-microbiome interaction || Metagenomics || Microbial genomics || Microbial Ecology<br>
+
+## 🌐 Socials<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadAjagbe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d1stadeyemi@aucegypt.edu) 
 
 # 💻 Tech Stack:
