@@ -1,25 +1,21 @@
-# 👋 Hi there, I'm ✨Muhammad Ajagbe ✨
-Bioinformatician | Computational Biologist | Metagenomic Data Analyst
+# 💫 About Me:
+# 👋 Hi there, I'm ✨Muhammad Ajagbe ✨<br>Bioinformatician | Computational Biologist | Metagenomic Data Analyst<br><br>My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, functional genomics, and the discovery of novel bioactive compounds.<br><br>🔬 Research Interests<br>Metagenomics: Exploring microbial diversity and function in extreme environments.<br><br>Functional Genomics: Annotating and characterizing genes involved in antibiotic production.<br><br>Computational Biology: Developing pipelines for genome assembly and annotation.<br><br>Microbial Ecology: Understanding microbial interactions and their ecological roles.<br>
 
-My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, functional genomics, and the discovery of novel bioactive compounds.
 
-🔬 Research Interests
-Metagenomics: Exploring microbial diversity and function in extreme environments.<br>
-Functional Genomics: Annotating and characterizing genes involved in antibiotic production.<br>
-Computational Biology: Developing pipelines for genome assembly and annotation.<br>
-Microbial Ecology: Understanding microbial interactions and their ecological roles.<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadAjagbe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d1stadeyemi@aucegypt.edu) 
 
-🛠️ Technical Skills<br>
-Programming:<br>
-![Python](https://github.com/user-attachments/assets/02c3398d-6c12-44df-8e8b-151a4f695321) 
-![R](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AR_logo.svg&psig=AOvVaw09401hVq0Y7-yaz1sECAA5&ust=1744872680948000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjb4rT724wDFQAAAAAdAAAAABAE)
-![shellscripting](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F27010&psig=AOvVaw0mfy5-mLB7Vgh-XSlGLxPw&ust=1744872741941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDZmNP724wDFQAAAAAdAAAAABAE)<br>
-Bioinformatics Tools: MetaWRAP, SPAdes, MEGAHIT, DRAM, antiSMASH, Cytoscape .etc.<br>
-Data Analysis: RNA-Seq, differential expression analysis, pathway reconstruction.<br>
-Version Control: Git, GitHub.<br>
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=d1stadeyemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=d1stadeyemi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d1stadeyemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📈 GitHub Stats
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-📫 Let's Connect
-Email: d1stadeyemi@aucegypt.edu<br>
-LinkedIn: [MuhammadAjagbe](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACfL2awB01NHgXUUc2B3r_WfCxRleV5OZVU&keywords=muhammad%20ajagbe&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=85d24b47-f121-4a3c-b5f3-1756cb0b296d&sid=2%3A&spellCorrectionEnabled=true)
+---
+[![](https://visitcount.itsvg.in/api?id=d1stadeyemi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
