@@ -2,7 +2,7 @@
 👋 Hi there, I'm ✨ Muhammad Ajagbe ✨<br>
 Bioinformatician | Computational Biologist | Metagenomic Data Analyst<br>
 
-My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, functional genomics, and the discovery of novel bioactive compounds.<br>
+My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, microbial ecology, and the discovery of novel bioactive compounds.<br>
 
 🔬 Research Interests:<br>
 Host- and Enviroment-microbiome interaction || Metagenomics || Microbial genomics || Microbial Ecology<br>
