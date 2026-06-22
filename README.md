@@ -2,10 +2,10 @@
 👋 Hi there, I'm ✨ Muhammad Ajagbe ✨<br>
 Bioinformatician | Computational Biologist | Microbiome Data Analyst<br>
 
-My passion lies in unraveling the complexities of microbial communities through computational approaches, with a keen interest in metagenomics, microbial ecology, and the discovery of novel bioactive compounds.<br>
+I am a computational biologist specializing in genomics, machine learning, and multi-omics analysis. My work focuses on developing scalable pipelines to extract biological insight from large-scale sequencing datasets, with a growing interest in sequence-level predictive modeling.<br>
 
 🔬 Research Interests:<br>
-Host- and Enviroment-microbiome interaction || Metagenomics || Microbial genomics || Microbial Ecology<br>
+Genomics || Transcriptomics || Machine Learning<br>
 
 ### 🌐 Socials<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadAjagbe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d1stadeyemi@aucegypt.edu) 
