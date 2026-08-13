@@ -5,7 +5,7 @@ Bioinformatician | Computational Biologist | Microbiome Data Analyst<br>
 I am a computational biologist specializing in genomics, machine learning, and multi-omics analysis. My work focuses on developing scalable pipelines to extract biological insight from large-scale sequencing datasets, with a growing interest in sequence-level predictive modeling.<br>
 
 🔬 Research Interests:<br>
-Genomics || Transcriptomics || Machine Learning<br>
+(Epi/meta)Genomics || Transcriptomics || Machine Learning<br>
 
 ### 🌐 Socials<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadAjagbe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d1stadeyemi@aucegypt.edu) 
